@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+body
+{
+    background-image: url('https://th.bing.com/th/id/R.eec180a50e212cec1d44e9acd9bd02dc?rik=ROk1A8BuqaAAYw&riu=http%3a%2f%2fwww.sickchirpse.com%2fwp-content%2fuploads%2f2016%2f10%2fCreepy-1.jpg&ehk=kSa4za5rFSvbkifQ0ou2wzD0qXvgeTdaZE1rSODgyEE%3d&risl=&pid=ImgRaw&r=0');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(0, 255, 0);
+}
+.bg{
+    text-align: center;
+}
+.container
+{
+    text-align: right;
+}
+.position
+{
+    margin-right:862px; 
+    margin-top: 345px;
+}
+.position1
+{
+    margin-right: 206px;
+    margin-top: 10px;
+    margin-bottom: 20px
+  
+}
+.position2
+{
+    margin-right: 109px;
+}
+.position3
+{
+    margin-right: 431px;
+}
+.position4
+{
+    margin-top: 10px;
+    margin-right: 550px;
+}
+.button
+{
+    margin-left: 1444px;
+    margin-top: 200px;
+    size: 40px;
+    margin-right: 100px;
+}

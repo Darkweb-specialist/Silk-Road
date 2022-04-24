@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: black;
+    color: rgb(0, 255, 0);
+}
+body h1
+{
+    text-align: center;
+}
+body p
+{
+    margin: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+.input
+{
+    margin-left: 857px;
+    padding: 6px;
+    /* margin-top: 750px;
+    padding-right: 1730px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 5px; */
+}
