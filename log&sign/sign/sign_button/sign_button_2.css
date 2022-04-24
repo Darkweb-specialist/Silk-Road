@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background: black;
+    color: white;
+}
+body h1
+{
+    text-align: center;
+    margin: 261px;
+}
+.user_pass
+{
+    margin-top: -181px;
+}
